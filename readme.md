@@ -3,7 +3,7 @@
 ## Version: 0.1
 
 
-CSSFuck is an esoteric language to css made to fuck your brain even more.
+CSSFuck is an esoteric language that compiles to css.
 
 By [@HaibaoM55](https://github.com/HaibaoM55)
 
