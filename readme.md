@@ -1,9 +1,9 @@
 # CSSFUCK `[]+(){}`
 
-## Version: 1.0
+## Version: 0.1
 
 
-CSSFuck is an compiled language to css made to fuck your brain even more.
+CSSFuck is an esoteric language to css made to fuck your brain even more.
 
 By [@HaibaoM55](https://github.com/HaibaoM55)
 
